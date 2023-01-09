@@ -311,7 +311,8 @@ Since we'll be setting this up as a **class component**, you'll notice a few thi
     export default Guesses;
     ```
 
-At this point, you should have functional gameplay!
+At this point, you should have functional gameplay!  
+
 ![guess-demo](./images/word-game.gif)
 
 However, you might have noticed we only have one word in the `wordBank`. In the sections below, we'll talk through how to grab more words from a third party API so users get a different word every time they play
