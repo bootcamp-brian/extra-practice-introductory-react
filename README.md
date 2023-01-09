@@ -1,26 +1,3 @@
-<style type="text/css">
-
-h1 { /* Header 1 */
-  font-size: 2.5em;
-  }
-h2 { /* Header 2 */
-    font-size: 2.2em;
-}
-h3 { /* Header 3 */
-  font-size: 2em;
-}
-h4 { /* Header 1 */
-  font-size: 1.8em;
-  }
-h5 { /* Header 2 */
-    font-size: 1.5em;
-}
-h6 { /* Header 3 */
-  font-size: 1.2em;
-}
-
-</style>
-
 # Introductory React Concepts
 ## Additional Practice - Build **`Wordniak`**, a Wordle Clone
 
